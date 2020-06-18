@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e206d32e841f76023696e6cb50ad23e",
+    "revision": "6fdc582283852996c6aa225028217f52",
     "url": "/kalimaty-admin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kalimaty-admin/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "38a66e820bf32b4f2bb3",
+    "revision": "be9698c3b77d52eab778",
     "url": "/kalimaty-admin/static/css/main.6f097817.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kalimaty-admin/static/js/2.70bb67f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38a66e820bf32b4f2bb3",
-    "url": "/kalimaty-admin/static/js/main.c687cbc6.chunk.js"
+    "revision": "be9698c3b77d52eab778",
+    "url": "/kalimaty-admin/static/js/main.84fb3108.chunk.js"
   },
   {
     "revision": "3a28c46bac2e67de4e88",

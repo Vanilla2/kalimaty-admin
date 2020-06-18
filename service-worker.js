@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kalimaty-admin/precache-manifest.774e7a14b94950b0abe22c1c9189497e.js"
+  "/kalimaty-admin/precache-manifest.006e79168763e89ce414cb13e9eaa6dc.js"
 );
 
 self.addEventListener('message', (event) => {
